@@ -35,6 +35,9 @@ h3{
     margin: 10px;
     text-decoration: none;
 }
+.footer-link:hover {
+    color: #EAF6F6;
+}
 h3:hover {
     background-color: gold;
 }
@@ -62,9 +65,20 @@ table {
 }
 .bottom-container {
     background-color: #66BFBF;
+    margin: 0px auto;
+    padding: 50px 0 20px;
 }
 .middle-container {
     margin: 100px 0px 100px 0px;
+}
+.back {
+    background-color: #66BFBF;
+    margin: 0;
+}
+.copyright {
+    margin: 0;
+    color: #EAF6F6;
+    font-size: 0.75em;;
 }
 .pro {
     text-decoration: underline;
